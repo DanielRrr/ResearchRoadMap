@@ -19,7 +19,7 @@ My assumption (perhaps, it's rubbish): it's worth to take a look at open morphis
 
 TODO No. 3: Prove that the category of spatial locales and open (?) morphisms is equivalent to the category of normal Dragalin frames and p-morphisms. That is, a functor from the category of spacial locales and open morphisms to the category of normal Dragalin frames has left adjoint and unit and counit of this adjunction are isomorphisms.
 
-TODO No. 4: The same issue but for locale homomorphisms p-morphisms of standard normal Dragalin frames.
+TODO No. 4: The same issue but for locale homomorphisms and p-morphisms of standard normal Dragalin frames.
 My assumption is the same, but for open morphisms of locales, not only spatial ones.
 
 TODO No. 5: Prove that the category of locales and open morphisms is equivalent to the category of standard normal Dragalin frames via adjunction as in TODO No. 3.
