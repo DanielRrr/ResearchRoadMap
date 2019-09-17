@@ -17,7 +17,7 @@ TODO No. 2: (This issue should be solved after the first one) Determine what mop
 to p-morphisms of normal Dragalin frames.
 My assumption (perhaps, it's rubbish): it's worth to take a look at open morphisms of spatial locales.
 
-TODO No. 3: Prove that the category of spatial locales and open (?) morphisms is equivalent to the category of normal Dragalin frames and p-morphisms. That is, a functor from the category of spacial locales and open morphisms to the category of normal Dragalin frames has left adjoint and unit and counit of this adjunction are isomorphisms.
+TODO No. 3: Prove that the category of spatial locales and open (?) morphisms is (dually) equivalent to the category of normal Dragalin frames and p-morphisms. That is, a functor from the category of spacial locales and open morphisms to the category of normal Dragalin frames has left adjoint and unit and counit of this adjunction are isomorphisms.
 
 TODO No. 4: The same issue but for locale homomorphisms and p-morphisms of standard normal Dragalin frames.
 My assumption is the same, but for open morphisms of locales, not only spatial ones.
@@ -41,3 +41,5 @@ References:
 [Saunders MacLane and Ieke Moerdijk. Sheafs in Geometry and Logic](http://atondwal.org/Sheaves_in_Geometry_and_Logic__MacLane_Moerdijk.pdf)
 
 [Yde Venema. Algebras and Coalgebras](https://staff.fnwi.uva.nl/y.venema/papers/ac.pdf)
+
+## Quantales and generalised Dragalin frames
