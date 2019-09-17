@@ -29,11 +29,17 @@ TODO No. 6: Determine how exactly normal Dragalin frame might be connected with 
 References:
 
 [Guram Bezhanishvili and Wesley Holliday. Locales, Nuclei, and Dragalin Frames](https://escholarship.org/uc/item/2s0134zx)
+
 [Guram Bezhanishvili and Wesley Holliday. A Semantic Hierarchy for Intuitionistic Logic](https://escholarship.org/uc/item/2vp2x4rx)
+
 [Francis Borceux. Handbook of Categorical Algebra: Volume 3, Sheaf theory](https://books.google.ru/books/about/Handbook_of_Categorical_Algebra_Volume_3.html?id=gfVkPgAACAAJ&redir_esc=y)
+
 [Albert Dragalin. Mathematical Intuitionism](https://books.google.ru/books/about/Mathematical_Intuitionism.html?id=n_ecAwAAQBAJ&redir_esc=y)
+
 [Leo Esakia. Heyting algebras](https://www.springer.com/gp/book/9783030120955)
+
 [Saunders MacLane and Ieke Moerdijk. Sheafs in Geometry and Logic](http://atondwal.org/Sheaves_in_Geometry_and_Logic__MacLane_Moerdijk.pdf)
+
 [Yde Venema. Algebras and Coalgebras](https://staff.fnwi.uva.nl/y.venema/papers/ac.pdf)
 
 ## Quantales and generalised Dragalin frames
