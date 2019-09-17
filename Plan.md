@@ -48,4 +48,4 @@ References:
 
 [Francis Borceux. Quantales and their sheaves](https://link.springer.com/article/10.1007/BF00403411)
 
-[Marcelo E. Coniglio and Francisco Miraglia](https://www.jstor.org/stable/20016178?seq=1#page_scan_tab_contents)
+[Marcelo E. Coniglio and Francisco Miraglia. Non-Commutative Topology and Quantales](https://www.jstor.org/stable/20016178?seq=1#page_scan_tab_contents)
