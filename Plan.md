@@ -26,7 +26,7 @@ TODO No. 5: Prove that the category of locales and open morphisms is equivalent 
 
 TODO No. 6: Determine how exactly normal Dragalin frame might be connected with sober spaces.
 
-References:
+### References:
 
 [Guram Bezhanishvili and Wesley Holliday. Locales, Nuclei, and Dragalin Frames](https://escholarship.org/uc/item/2s0134zx)
 
