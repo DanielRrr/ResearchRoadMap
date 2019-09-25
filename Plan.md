@@ -16,7 +16,7 @@ UPD: Shehtman advised to use a completion operation on upsets of a normal Dragal
 
 TODO No. 2: (This issue should be solved after the first one) Determine what moprhisms between of spatial locales correspond
 to p-morphisms of normal Dragalin frames.
-My assumption (perhaps, it's rubbish): it's worth to take a look at open and étale morphisms of spatial locales.
+My assumption (perhaps, it's rubbish): it's worth to take a look at [open](http://www.math.harvard.edu/~lurie/278xnotes/Lecture17-Open.pdf) and étale morphisms (see 1.7. Handbook of Categorical Algebra (vol 3.) by Borceux) of spatial locales.
 
 TODO No. 3: Prove that the category of spatial locales and open (?) morphisms is (dually) equivalent to the category of normal Dragalin frames and p-morphisms. That is, a functor from the category of spacial locales and open morphisms to the category of normal Dragalin frames has left adjoint and unit and counit of this adjunction are isomorphisms.
 
