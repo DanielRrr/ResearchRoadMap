@@ -12,6 +12,7 @@ TODO No. 1: Define p-morphisms between Dragalin frames and their instances for n
 (As Shehtman told me, nobody had done that before). Also one needs to ensure that this hypothetical p-morphism has the same
 behaviour as the usual one for Kripke frames (that is, the standard p-morphisms for those morphisms between Dragalin frames).
 My assumption: one may try to consider/introduce coalgebra on Dragalin frames and extract desired p-morphism (monotonicity, the lifting property and something else) conditions from that coalgebra on a Dragalin frame.
+UPD: Shehtman advised to use a completion operation on upsets of a normal Dragalin frame.
 
 TODO No. 2: (This issue should be solved after the first one) Determine what moprhisms between of spatial locales correspond
 to p-morphisms of normal Dragalin frames.
