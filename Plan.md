@@ -10,13 +10,13 @@ It seems that it makes sense to stregnthen those results in terms of categorical
 
 TODO No. 1: Define p-morphisms between Dragalin frames and their instances for normal and standard normal ones.
 (As Shehtman told me, nobody had done that before). Also one needs to ensure that this hypothetical p-morphism has the same
-behaviour as the usual one for Kripke frames (that is, the standard p-morphisms for those morphisms between Dragalin frames).
+behaviour as the usual one for Kripke frames (that is, the standard p-morphisms lemma for those morphisms between Dragalin frames).
 My assumption: one may try to consider/introduce coalgebra on Dragalin frames and extract desired p-morphism (monotonicity, the lifting property and something else) conditions from that coalgebra on a Dragalin frame.
 UPD: Shehtman advised to use a completion operation on upsets of a normal Dragalin frame.
 
 TODO No. 2: (This issue should be solved after the first one) Determine what moprhisms between of spatial locales correspond
 to p-morphisms of normal Dragalin frames.
-My assumption (perhaps, it's rubbish): it's worth to take a look at open morphisms of spatial locales.
+My assumption (perhaps, it's rubbish): it's worth to take a look at open and étale morphisms of spatial locales.
 
 TODO No. 3: Prove that the category of spatial locales and open (?) morphisms is (dually) equivalent to the category of normal Dragalin frames and p-morphisms. That is, a functor from the category of spacial locales and open morphisms to the category of normal Dragalin frames has left adjoint and unit and counit of this adjunction are isomorphisms.
 
@@ -27,7 +27,7 @@ TODO No. 5: Prove that the category of locales and open morphisms is equivalent 
 
 TODO No. 6: Determine how exactly normal Dragalin frame might be connected with sober spaces.
 
-References:
+### References:
 
 [Guram Bezhanishvili and Wesley Holliday. Locales, Nuclei, and Dragalin Frames](https://escholarship.org/uc/item/2s0134zx)
 
